@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/downloads/route.js")
+R.c("server/chunks/0ipn_bakong-khqr-payment-integration (1)_src_app_api_downloads_route_ts_01pk8bo._.js")
+R.c("server/chunks/0og~_next_116q7.e._.js")
+R.c("server/chunks/0og~_drizzle-orm_07gpy7f._.js")
+R.c("server/chunks/0og~_zod_v4_0_~5xz5._.js")
+R.c("server/chunks/[root-of-the-server]__0x4_onz._.js")
+R.c("server/chunks/[root-of-the-server]__0majcia._.js")
+R.c("server/chunks/0_fv__next-internal_server_app_api_downloads_route_actions_11~3wcn.js")
+R.m("[project]/Downloads/bakong-khqr-payment-integration (1)/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/bakong-khqr-payment-integration (1)/src/app/api/downloads/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Downloads/bakong-khqr-payment-integration (1)/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/bakong-khqr-payment-integration (1)/src/app/api/downloads/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

@@ -1,0 +1,6 @@
+{
+  "/api/downloads/route": "app/api/downloads/route.js",
+  "/api/payments/check/route": "app/api/payments/check/route.js",
+  "/api/payments/create/route": "app/api/payments/create/route.js",
+  "/page": "app/page.js"
+}
